@@ -1,2 +1,5 @@
-# reddit_remove_more_from
-Removes the "more from subreddit" links that appear on comments pages when you are not signed in
+# Reddit Remove "More From" Userscript
+
+Reddit has added an inline "more from subredditX" after the first few comments, for users that are not logged in.
+
+This removes that.
